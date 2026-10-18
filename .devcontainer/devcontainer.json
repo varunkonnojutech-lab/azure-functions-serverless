@@ -1,0 +1,1 @@
+{"customizations":{"vscode":{"extensions":["ms-dotnettools.csharp"]}},"image":"mcr.microsoft.com/devcontainers/dotnet:1-8-bookworm","name":"azure-functions-serverless","postCreateCommand":"dotnet restore src/OrderFunctions"}

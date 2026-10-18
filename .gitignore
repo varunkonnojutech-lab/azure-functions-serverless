@@ -1,0 +1,30 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+## Publish
+publish/
+PublishProfiles/
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## NuGet
+*.nupkg
+*.snupkg
+artifacts/
+
+## Azure Functions local settings (contains secrets - never commit)
+local.settings.json
+
+## OS
+.DS_Store
+Thumbs.db
